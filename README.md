@@ -261,4 +261,3 @@ This project provides a **real-world MERN stack application** with **secure auth
 
 
 
-👉 Do you want me to also design a **real workflow diagram (PNG/SVG)** instead of placeholder images so you can directly add visuals to README?
