@@ -74,8 +74,8 @@ A full-stack **MERN** project with **Admin & Agent dashboards** for managing age
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/mern-agent-distribution.git
-cd mern-agent-distribution
+git clone https://github.com/Janardhannaik/Agent-Creation-Management.git
+cd Agent-Creation-Management
 ```
 
 ---
@@ -256,9 +256,9 @@ This project provides a **real-world MERN stack application** with **secure auth
 ---
 
 📌 **Author:** Your Name
-📧 Email: [you@example.com](mailto:you@example.com)
-🔗 GitHub: [yourusername](https://github.com/yourusername)
+📧 Email: [naikjanardhan568@gmail.com](naikjanardhan568@gmail.com)
 
----
+
+
 
 👉 Do you want me to also design a **real workflow diagram (PNG/SVG)** instead of placeholder images so you can directly add visuals to README?
